@@ -5,10 +5,10 @@ func main() {
 
     fmt.Println("Hello World!")
 	// fmt.Println(math.Sin(0))
-    notmain("Vuong")
+    notMain("Vuong")
 
 }
 
-func notmain(name string){
+func notMain(name string){
     fmt.Println("Hello ", name)
 }
